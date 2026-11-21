@@ -1,7 +1,7 @@
 {
-  "version": "0.5.15",
-  "notes": "- RetroArch: cập nhật/tải core qua mạng dùng được (kho core ARM64); tự sao lưu core gốc, có mục khôi phục.\n- Dùng lại core gốc của RetroArch cho mọi hệ máy; bỏ trình chạy riêng senplay của SenOS.\n- NDS: chỉ dùng DraStic gốc của TrimUI; tự gỡ Advanced DraStic và melonDS, giữ lại save, sửa lỗi lưu.\n- Biểu tượng mới cho tất cả hệ máy và công cụ (hình máy/tay cầm riêng, nền màu riêng), ô Thư viện/Ứng dụng to hơn.\n- Cập nhật SenOS qua mạng: Cài đặt › Thông tin › Kiểm tra cập nhật (tự kiểm tra mỗi ngày khi có WiFi).\n- Màn hình sạc: theo dõi pin, dòng, nhiệt độ; sạc tối ưu (CPU tiết kiệm, tắt màn hình, ngủ khi sạc).\n- NDS Advanced DraStic: sửa lỗi lưu và cheat; dùng chung save với DraStic gốc.\n- Ngủ: tắt màn hình ngay khi bấm nguồn; tắt WiFi/Bluetooth/LED khi ngủ; bấm nguồn khi chơi game cũng ngủ thật.\n- Mục RetroArch — cài đặt trong thẻ Ứng dụng.",
+  "version": "0.5.16",
+  "notes": "- Sửa lỗi game (nhất là NDS) nạp chậm, lúc vào được lúc không: bỏ việc sao lưu core chạy nền lúc khởi động; chỉ sao lưu một lần khi mở RetroArch — cài đặt.\n- RetroArch: cập nhật/tải core qua mạng dùng được (kho core ARM64); tự sao lưu core gốc, có mục khôi phục.\n- Dùng lại core gốc của RetroArch cho mọi hệ máy; bỏ trình chạy riêng senplay của SenOS.\n- NDS: chỉ dùng DraStic gốc của TrimUI; tự gỡ Advanced DraStic và melonDS, giữ lại save, sửa lỗi lưu.\n- Biểu tượng mới cho tất cả hệ máy và công cụ (hình máy/tay cầm riêng, nền màu riêng), ô Thư viện/Ứng dụng to hơn.\n- Cập nhật SenOS qua mạng: Cài đặt › Thông tin › Kiểm tra cập nhật (tự kiểm tra mỗi ngày khi có WiFi).\n- Màn hình sạc: theo dõi pin, dòng, nhiệt độ; sạc tối ưu (CPU tiết kiệm, tắt màn hình, ngủ khi sạc).\n- NDS Advanced DraStic: sửa lỗi lưu và cheat; dùng chung save với DraStic gốc.\n- Ngủ: tắt màn hình ngay khi bấm nguồn; tắt WiFi/Bluetooth/LED khi ngủ; bấm nguồn khi chơi game cũng ngủ thật.\n- Mục RetroArch — cài đặt trong thẻ Ứng dụng.",
   "url": "https://raw.githubusercontent.com/TrungTruong25/SenOS/main/releases/senos-update.zip",
-  "size": 4705290,
-  "sha256": "fe5f5bab29455c2b50be01f87ff6ba765ca67ea8a70c690e23cd0f429b66d512"
+  "size": 4709319,
+  "sha256": "224a14da96fe6593784e4abeff6773bf47d2f673c91c88fc155e60d02f7e89e7"
 }
