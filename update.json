@@ -1,0 +1,7 @@
+{
+  "version": "0.5.9",
+  "notes": "- Cập nhật SenOS qua mạng: Cài đặt › Thông tin › Kiểm tra cập nhật (tự kiểm tra mỗi ngày khi có WiFi).\n- Màn hình sạc: theo dõi pin, dòng, nhiệt độ; sạc tối ưu (CPU tiết kiệm, tắt màn hình, ngủ khi sạc).\n- NDS Advanced DraStic: sửa lỗi lưu và cheat; dùng chung save với DraStic gốc.\n- Ngủ: tắt màn hình ngay khi bấm nguồn; tắt WiFi/Bluetooth/LED khi ngủ; bấm nguồn khi chơi game cũng ngủ thật.\n- Mục RetroArch — cài đặt trong thẻ Ứng dụng.",
+  "url": "https://raw.githubusercontent.com/TrungTruong25/SenOS/main/releases/senos-update.zip",
+  "size": 10514624,
+  "sha256": "99f574c33968dd4b166f1a36c7db926020ef8d5a0af01da302c0acd5367b7288"
+}
