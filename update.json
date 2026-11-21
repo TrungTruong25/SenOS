@@ -1,7 +1,7 @@
 {
-  "version": "0.5.10",
-  "notes": "- Biểu tượng mới cho tất cả hệ máy và công cụ (hình máy/tay cầm riêng, nền màu riêng), ô Thư viện/Ứng dụng to hơn.\n- Cập nhật SenOS qua mạng: Cài đặt › Thông tin › Kiểm tra cập nhật (tự kiểm tra mỗi ngày khi có WiFi).\n- Màn hình sạc: theo dõi pin, dòng, nhiệt độ; sạc tối ưu (CPU tiết kiệm, tắt màn hình, ngủ khi sạc).\n- NDS Advanced DraStic: sửa lỗi lưu và cheat; dùng chung save với DraStic gốc.\n- Ngủ: tắt màn hình ngay khi bấm nguồn; tắt WiFi/Bluetooth/LED khi ngủ; bấm nguồn khi chơi game cũng ngủ thật.\n- Mục RetroArch — cài đặt trong thẻ Ứng dụng.",
+  "version": "0.5.11",
+  "notes": "- NDS: chỉ dùng DraStic gốc của TrimUI; tự gỡ Advanced DraStic và melonDS, giữ lại save, sửa lỗi lưu.\n- Biểu tượng mới cho tất cả hệ máy và công cụ (hình máy/tay cầm riêng, nền màu riêng), ô Thư viện/Ứng dụng to hơn.\n- Cập nhật SenOS qua mạng: Cài đặt › Thông tin › Kiểm tra cập nhật (tự kiểm tra mỗi ngày khi có WiFi).\n- Màn hình sạc: theo dõi pin, dòng, nhiệt độ; sạc tối ưu (CPU tiết kiệm, tắt màn hình, ngủ khi sạc).\n- NDS Advanced DraStic: sửa lỗi lưu và cheat; dùng chung save với DraStic gốc.\n- Ngủ: tắt màn hình ngay khi bấm nguồn; tắt WiFi/Bluetooth/LED khi ngủ; bấm nguồn khi chơi game cũng ngủ thật.\n- Mục RetroArch — cài đặt trong thẻ Ứng dụng.",
   "url": "https://raw.githubusercontent.com/TrungTruong25/SenOS/main/releases/senos-update.zip",
-  "size": 10867980,
-  "sha256": "a974722dfbbcc8db9a1dc3d3de9836c3d3e69a3fca8ec76ca813b50d4de77fda"
+  "size": 9194608,
+  "sha256": "dddf11f55cd9f9a3562f27974c230cbd9bb13fcd3dc011923ffdfd6e8155283d"
 }
